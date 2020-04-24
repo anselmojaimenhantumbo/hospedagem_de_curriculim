@@ -1,0 +1,39 @@
+*
+body{
+	background: #442233;
+	color: white;
+}
+   
+#Minha_foto{
+    margin: 5px;
+    border: solid 2px #cccccc;
+    
+    
+
+   }
+#Principal{
+    border: solid 2px;
+    padding: 10px;
+    width: 80%;
+    margin: 0 auto;
+    background: #502d2d;
+    
+}
+legend{
+    border: solid 1px #449844;
+    padding: 5px;
+    font-weight: bold;
+    color:black;
+    border-radius: 10px;
+    background: chartreuse;
+}
+h1{
+    text-align: center;
+    text-decoration: underline crimson;
+}
+body{
+ background: url(mar.PNG) no-repeat;
+ background-size: 100%; 
+ background-attachment: fixed;  
+
+}
